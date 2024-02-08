@@ -9,6 +9,8 @@ A point-and-click GUI that automatically determines quantitative histological pa
 * Reproducible and *Tunable* | Completely Deterministic Methods
 * Batch Processing Capable
 
+![viceApp](doc/images/viceApp01.png)
+
 # Updates
 * (03/2023) ViCE v.1.04 is ready to be released with a GUI frontend
 * (11/2022) ViCE v.0.14.03 is released. A more compact and functionalized iteration. 

@@ -1,16 +1,14 @@
-# ViCE: A Villus and Crypt Evaluator
-This is where the beta versions of our ***automatic*** villus height and crypt depth evaluator is stored. Feed your version of  ViCE an H&E stained image and it'll dish out villi-crypt pair measurements and then some.
+![viceFrontPage](doc/images/viceFrontPage02.png)
+# ViCE: Villus & Crypt Evaluator
+A point-and-click GUI that automatically determines quantitative histological parameters in 8-bit hematoxylin and eosin (H&E) stained intestinal biopsies. Feed your version of ViCE an H&E stained image and watch it automatically generate villi-crypt pair measurements, figures, and more. 
 
-## Here's a lollipop
+* A Deep Learning Free Approach | No Black Boxes!
+* Scale and Staining Agnostic Methods
+* Fully Automatic | No User Calibration Required
+* Results Comparable to the Current Gold Standard: Manual Measures
+* Reproducible and *Tunable* | Completely Deterministic Methods
+* Batch Processing Capable
 
-![example](https://github.com/thiagarajahlab/ViCE/blob/78bb97073c40329550aeec15e9389434f6ab8356/exampleTest02.png)
-
-
-
-Example image input (left) and ViCE's outputs (right). Image is from JRTurner Lab's Atlas: https://jrturnerlab.com/database-viewer/atlas-of-intestinal-transport/
-
-
-## Updates
+# Updates
+* (03/2023) ViCE v.1.04 is ready to be released with a GUI frontend
 * (11/2022) ViCE v.0.14.03 is released. A more compact and functionalized iteration. 
-
-![logo](https://github.com/thiagarajahlab/ViCE/blob/1be60190a5f9a030b5f58e6b1fabbd8f248c8317/logotest01a.png)
